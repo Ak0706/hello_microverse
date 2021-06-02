@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(255, 0, 0);
+  width: 100%;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+body {
+  margin: 0;
+  align-content: center;
+  display: flex;
+  background-color: rgb(0, 0, 0);
+  height: 100vh;
+}
