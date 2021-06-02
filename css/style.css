@@ -1,19 +1,19 @@
 
 h1 {
-    color: black;
-    font-size: 50px;
-    text-align: center;
-    background-color: red;
-    width: 100%;
-    margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  background-color: red;
+  width: 100%;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
   }
   
   body {
-    margin: 0;
-    align-content: center;
-    display: flex;
-    background-color: black;
-    height: 100vh;
+  margin: 0;
+  align-content: center;
+  display: flex;
+  background-color: black;
+  height: 100vh;
   }
