@@ -1,4 +1,4 @@
-h1 {
+  h1 {
     color: rgb(0, 0, 0);
     font-size: 50px;
     text-align: center;
@@ -8,7 +8,7 @@ h1 {
     margin-top: auto;
     margin-bottom: auto;
   }
-  
+    
   body {
     margin: 0;
     align-content: center;
@@ -16,3 +16,4 @@ h1 {
     background-color: rgb(0, 0, 0);
     height: 100vh;
   }
+  
